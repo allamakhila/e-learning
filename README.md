@@ -271,3 +271,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, please email support@campusconnect.com
 
 Project maintained by Allam Akhilandeswari
+
+## 📌 Recent Updates
+
+- Project reviewed, documented, and maintained in June 2026.
